@@ -1,1 +1,2 @@
-use comp_sci_483_assignment2::main;
+use COMP_SCI_483_Assignment2;
+
